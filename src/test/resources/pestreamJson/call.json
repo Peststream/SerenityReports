@@ -1,0 +1,75 @@
+{
+	"CallData": {
+		"CompanyName": "Work",
+		"ContactName": "Peter",
+		"MiddleName": "William",
+		"LastName": "Walker",
+		"PrimaryEmail": "testpestream@gmail.com",
+		"CellNumber": "1234567890",
+		"SecondaryNumber": "1234567890",
+		"AccountAlert": "This is Alert For the Account",
+		"ProblemDescription": "This is problem For the Account",
+		"Address": "Service Address Line",
+		"ServiceZip": "90201",
+		"ServiceCity": "Bell",
+		"CustomerName": "Jack Williams"
+	},
+	
+	"CallDataOfResidentialFlow": {
+		"TaxExemption": "Tax for Tax Exemption",
+		"ProposalNotes": "Proposal Notes for Proposal",
+		"AddEmail": "dell@gmail.com",
+		"AdditionalNote": "Additional Note is Required",
+		"OpenGmail": "testpestream@gmail.com",
+	    "OpenGmailPassword": "Pestream@1",
+		"EnterNotes": "This is the Note For the User",
+		"AddNote": "Add Note For the User",
+		"ServiceName": "This is the Service Name"
+	},
+	"CallDataOfDiffBillinAddress": {
+		"DAddress": "DService Address Line",
+		"DServiceZip": "73301",
+		"DServiceCity": "Austin"
+},
+	"CSRDashBoard": {
+		"Description": "This is Description",
+		"Notes": "This is Notes"
+		},
+	"EmployeeDetails": {
+		"FirstName": "Kevin",
+		"LastName": "Sam",
+		"UserName": "KevinSam123"
+		},
+	"RouteDetails": {
+		"Route": "12345",
+		"RouteName": "Test Route",
+		"RouteDescription": "This is Route Description"
+		},
+	"TeamDetails": {
+		"Email": "dheeraj@ascentcybersolutions.com",
+		"TeamName": "Test Team"
+		},
+	"LeaveManagement":{
+		"fromLM_time":"1200 pm",
+		"toLM_time": "0500 pm"
+	},
+	"ClockInOut": {
+		"TimeOut": "0900 am",
+		"Reason": "This is the Reason for the ClockInOut Time"
+		},
+	"EmployeeTimesheet":{
+		"from_time":"1000 am",
+		"to_time":"0500 pm",
+		"emp_Description":"This is Employee Timesheet Description."
+		},
+	"SupervisorTimesheet":{
+	    "st_from_time":"1000 am",
+		"st_to_time":"0500 pm",
+		"st_description": "This is Supervisor Timesheet Description."
+		},
+	"CustomerData":{
+	    "FirstName_ContactCustomer": "Walker",
+		"PrimaryEmail": "testpestream@gmail.com"
+		}
+	
+}

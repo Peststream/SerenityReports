@@ -1,0 +1,108 @@
+{
+	"CallData": {
+		"CompName": "Work",
+		"ContName": "Samuelllomp",
+		"MName": "William",
+		"LName": "Walker",
+		"PEmail": "eviksarathore@gmail.com",
+		"CNumber": "1234567890",
+		"SNumber": "1234567890",
+		"AccountAlert": "This is Alert For the Account",
+		"ProblemDescription": "This is problem For the Account",
+		"Address": "Service Address Line",
+		"ServiceZip": "90201",
+		"ServiceCity": "Bell",
+		"CustomerName": "Jack Williams",
+		"PaidAmount": "220",
+		"TypeName": "John"
+	},
+	"OpportunityAddress": {
+		"AddressLine1": "B-2 near Bridge Road",
+		"Zip": "10001",
+		"City": "New York",
+		"AddNote": "This is a Additional Note"
+	},
+	"AppointmentsResidential": {
+		"Description": "Opportunity is Lost Due to Demo Cancel Reason"
+	},
+	"CallDataOfResidentialFlow": {
+		"TaxExemption": "Tax for Tax Exemption",
+		"ProposalNotes": "Proposal Notes for Proposal",
+		"AddEmail": "dell@gmail.com",
+		"AdditionalNote": "Additional Note is Required",
+		"OpenGmail": "saritakalal1988@gmail.com",
+		"OpenGmailPassword": "Blue@440940",
+		"EnterNotes": "This is the Note For the User",
+		"AddNote": "Add Note For the User",
+		"ServiceName": "This is the Service Name"
+	},
+	"CSRDashBoard": {
+		"FirstName": "Samuel",
+		"EnterNote": "Enter a note"
+	},
+	"Account_Customer": {
+		"AccountName": "Samuel"
+	},
+	"Company_Customer": {
+		"Name": "WeWork",
+		"PrimaryEmail": "eviksarathore@gmail.com",
+		"PrimaryPhone": "0123456987"
+	},
+	"Contact_Customer": {
+		"FirstName": "Samuel",
+		"LastName": "John",
+		"PrimaryEmail": "eviksarathore@gmail.com"
+	},
+	"Opportunity_Customer": {
+		"CompanyName": "We Work",
+		"OpportunityName": "Opportunity Name",
+		"FirstName": "Samuel"
+	},
+	"Lead_Customer": {
+		"FirstName": "We Work",
+		"PrimaryEmail": "eviksarathore@gmail.com",
+		"Address": "32-G Near East Coast"
+	},
+	"DB_Customer": {
+		"FirstName": "Hyden",
+		"LastName": "Mathew",
+		"SourceSysName": "Source System Name"
+	},
+	"Staff_Employee": {
+		"FirstName": "Hyden",
+		"LastName": "Mathew",
+		"UserName": "hydenMathew"
+	},
+	"Team_Employee": {
+		"Email": "eviksarathore@gmail.com",
+		"TeamName": "Automation Team"
+	},
+	"Route_Employee": {
+		"Route": "RouteTermite",
+		"RouteName": "Termite",
+		"ClockOut": "1111a"
+	},
+	"Locations_Inventory": {
+		"LocName": "Location Termite",
+		"LocNo": "01"
+	},
+	"AddOppAdvanceSearch_AccCustTermite": {
+		"OppName": "Opportunity Name",
+		"LName": "Mathew"
+	},
+	"AddCallAdvanceSearch_AccCustTermite": {
+		"Contact": "Samuel",
+		"AccAlert": "This is Account Alert"
+	},
+	"AddOppAdvanceSearch_CompCustTermite": {
+		"OppName": "Opportunity Name"
+	},
+	"AddOppAdvanceSearch_ContCustTermite": {
+		"OppName": "Opportunity Name"
+	},
+	"EmployeeData": {
+		"FName": "Henry",
+		"LName": "Mathew",
+		"Username": "HMathew"
+	}
+}

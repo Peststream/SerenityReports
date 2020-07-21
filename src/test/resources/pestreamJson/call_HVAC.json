@@ -1,0 +1,14 @@
+{
+	"CallDataForHVAC": {
+		"Job Desc": "This is the job description",
+		"Address line 1": "40/98 Magarpatta",
+		"Zip": "400019",
+		"City": "Pune"
+	},
+	"CustomerInfo": {
+	   "Account": "41440015",
+		"Account Name": "Nitesh",
+		"Contact": "7726820958"
+	}
+}
+	

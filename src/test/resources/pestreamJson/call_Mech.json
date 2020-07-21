@@ -1,0 +1,26 @@
+{
+
+	"CallDataForMechanical":{
+		"Company_CSSO": "Capgemini Pvt Ltd.",
+		"Contact_CSSO": "Cecilia",
+		"Primary_Email":"CeciliaChapman@gmail.com",
+		"Primary_Cell": "025-799-9999",
+		"Acc_Alert_Mech":"This is the alert for Mechanical.",
+		"Problem_Description_Mech" :"This is Problem Description for Mechanical.",
+		"Job_Description"	:"This is Job Description.",
+		"Address" : "711-2880 Nulla St",
+		"Zip" : "96522",
+		"City" : "Mississippi",
+		"Amount" : "100",
+		"Customer_Name" : "Iris Watson",
+		"Estimated_Duration" : "0100 pm",
+		"Repair_Name" : "John",
+		"Repairto_Search" : "sc",
+		"Last_Name" : "Chapman",
+		"Price" : "100"
+		
+		}
+		
+
+}
+	
